@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello world" << std::endl;
-    return 2;
+    std::cout << "Hello world is a great feature" << std::endl;
+    int return_code = 0;
+    return return_code++;
 }
