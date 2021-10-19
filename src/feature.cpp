@@ -3,5 +3,6 @@
 int main()
 {
     std::cout << "Hello world is NOT *I want to keep the internal* a great feature" << std::endl;
-    return 2;
+    int return_code = 0;
+    return return_code++;
 }
